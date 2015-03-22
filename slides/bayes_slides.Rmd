@@ -1,0 +1,18 @@
+---
+title: "Bayesian Hierarchical Modeling"
+author: "erasmus group"
+date: "March 22, 2015"
+output: beamer_presentation
+bibliography: ../bib/bibliography.bib
+csl: ../bib/apa.csl
+---
+
+
+# goal
+- provide an overview of the flexibility using this approach
+- benefits over classical estimation of multilevel models
+- implement models in R & JAGS
+
+# primary literature:
+- chapters 16 & 17 of @gelman2006data
+- @rouder2013hierarchical
