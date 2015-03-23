@@ -8,11 +8,21 @@ csl: ../bib/apa.csl
 ---
 
 
-# goal
-- provide an overview of the flexibility using this approach
-- benefits over classical estimation of multilevel models
-- implement models in R & JAGS
+# goals (suggested)
+- explain why we need (Bayesian) hierarchical modeling
+- provide an overview of the flexibility using this approach (JAGS, e.g. nonlinear models)
+- run simulations demonstrating the benefit over classical estimation (e.g. small N, asymptotics)
+- discuss the problems of calculating Bayes factors
 
-# primary literature:
-- chapters 16 & 17 of @gelman2006data
+# primary literature (suggested):
+- Chapters 16 & 17 of @gelman2006data
 - @rouder2013hierarchical
+
+# secondary literature (suggested):
+- @baayen2008mixed
+- @judd2012treating
+- @barr2013random
+- @browne2006comparison
+- @fahrmeir2013bayesian
+
+# References (see also bib/bibliography.bib)
