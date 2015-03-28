@@ -20,4 +20,4 @@ see **bib/** for all references.
 
 ### Disclaimer
 We're all pretty new to hierarchical modeling. As for the code: I am accountable for any errors.
-If you find any, please drop me an [mailto:dostodabsi@gmail.com](email).
+If you find any, please drop me an email.
